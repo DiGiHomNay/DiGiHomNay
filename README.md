@@ -1,16 +1,13 @@
-## Hi there 👋
+# DiGiHomNay
 
-<!--
-**DiGiHomNay/DiGiHomNay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cẩm nang công nghệ và sửa chữa thiết bị điện tử.
 
-Here are some ideas to get you started:
+## Bài viết nổi bật
+- [Điện thoại sạc không vào pin: nguyên nhân và cách xử lý](https://digihomnay.runasp.net/)
+- [Điện thoại nóng máy: 7 nguyên nhân và cách xử lý](https://digihomnay.runasp.net/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Liên hệ
+- Website: https://digihomnay.runasp.net
+- Facebook: DiGiHomNay
+- YouTube: @DiGiHomNay-123
+- Email: digihomnay@gmail.com
